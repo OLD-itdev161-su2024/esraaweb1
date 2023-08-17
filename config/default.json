@@ -1,1 +1,4 @@
-mongodb+srv://murrye2:<Summer21$>itdev161@cluster0.xm5tjnn.mongodb.net/?retryWrites=true&w=majority
+{
+"mongodbURI": "mongodb+srv://murrye2:<Summer21$>itdev161@cluster0.xm5tjnn.mongodb.net/?retryWrites=true&w=majority",
+"jwtSecret": "Saroo2acafe"
+}
